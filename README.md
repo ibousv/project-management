@@ -14,7 +14,7 @@ A simple project management application using Laravel 11 and React.
 ## Installation
 1. Clone the project
 2. Navigate to the project's root directory using terminal
-3. Create `.env` file - `cp .env.example .env`
+3. Modify `.env` file
 4. Execute `composer install`
 5. Execute `npm install`
 6. Execute migrations and seed data - `php artisan migrate --seed`
